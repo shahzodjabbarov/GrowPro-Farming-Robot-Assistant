@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Pumpkin A"
+    },
+    {
+      "id": 1,
+      "name": "Pumpkin B"
+    },
+    {
+      "id": 2,
+      "name": "Salad A"
+    },
+    {
+      "id": 3,
+      "name": "Salad B"
+    },
+    {
+      "id": 4,
+      "name": "Strawberry A"
+    },
+    {
+      "id": 5,
+      "name": "Strawberry B"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

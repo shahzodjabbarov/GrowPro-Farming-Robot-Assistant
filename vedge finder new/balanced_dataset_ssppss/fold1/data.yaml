@@ -1,0 +1,6 @@
+
+path: C:/02 Uni/01 Korea Semster/Capstone design/vedge finder new/balanced_dataset_ssppss/fold1
+train: images/train
+val: images/val
+nc: 6
+names: ['Pumpkin A', 'Pumpkin Bro', 'Salad A', 'Salad Bro', 'Strawberries A', 'Strawberries Bro']
