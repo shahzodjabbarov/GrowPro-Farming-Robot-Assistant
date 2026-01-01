@@ -1,15 +1,6 @@
 from ultralytics import YOLO
 import cv2
 import gc
-'''
-Model classes
-Class 0: Pumpkin A
-Class 1: Pumpkin Bro
-Class 2: Salad A
-Class 3: Salad Bro
-Class 4: Strawberries A
-Class 5: Strawberries Bro
-'''
 
 # 🧹 Clear memory in case an old model was loaded before
 gc.collect()
