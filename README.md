@@ -3,9 +3,7 @@
 GrowPro is an autonomous farming robot built to assist farmers with **navigation, crop monitoring, and agricultural analysis** using computer vision, deep learning, and sensor-based systems.
 
 
-
-https://github.com/user-attachments/assets/c6379487-2f7e-4ee7-ba1c-1873f58699ac
-
+https://github.com/user-attachments/assets/494cc7c3-f093-4f34-acc4-8ee765b3c90c
 
 
 
