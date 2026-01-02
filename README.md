@@ -151,6 +151,6 @@ GROWPRO-FARMING-ROBOT-ASSISTANT/
 - Visual farm map with issue markers
 - Weather-based farming alerts
 
-## Media & Demonstrations
+## Poster
 <img width="1900" height="2704" alt="Grow Pro Poster (1) (3)" src="https://github.com/user-attachments/assets/82965fc6-d16a-405a-87fd-cc7d1c55b03b" />
 
