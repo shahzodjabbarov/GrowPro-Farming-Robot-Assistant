@@ -6,7 +6,7 @@ This project was developed as a **complete end-to-end robotic system**, covering
 
 ---
 
-## 🚜 What GrowPro Does
+## What GrowPro Does
 
 - Autonomous field navigation
 - Manual remote control with live video
@@ -19,7 +19,7 @@ This project was developed as a **complete end-to-end robotic system**, covering
 
 ---
 
-## 🤖 Operating Modes
+## Operating Modes
 
 ### Autonomous Mode
 - Camera-based lane navigation  
@@ -35,7 +35,7 @@ This project was developed as a **complete end-to-end robotic system**, covering
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 ```
 
@@ -53,7 +53,7 @@ Robot-Side Control (Motors / Sensors)
 
 ---
 
-## 🧱 Hardware
+## Hardware
 
 - Raspberry Pi 4 Model B (8GB RAM, active cooling)
 - Dual cameras (navigation + crop analysis)
@@ -66,7 +66,7 @@ Robot-Side Control (Motors / Sensors)
 
 ---
 
-## 💻 Software Stack
+## Software Stack
 
 - **Language**: Python  
 - **Computer Vision**: OpenCV  
@@ -78,7 +78,7 @@ Robot-Side Control (Motors / Sensors)
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 
@@ -107,7 +107,7 @@ GROWPRO-FARMING-ROBOT-ASSISTANT/
 
 ---
 
-## 👁️ Computer Vision & AI
+## Computer Vision & AI
 
 ### Navigation
 - Lane detection using camera input
@@ -123,13 +123,13 @@ GROWPRO-FARMING-ROBOT-ASSISTANT/
 - Crop counting
 
 **Supported crops**
-- Pumpkin (A / B)
-- Salad (A / B)
-- Strawberry (A / B)
+- Pumpkin 
+- Lettuce
+- Strawberry 
 
 ---
 
-## 🌐 Communication
+## Communication
 
 - Live video streaming via sockets
 - Command-based remote control
@@ -138,7 +138,7 @@ GROWPRO-FARMING-ROBOT-ASSISTANT/
 
 ---
 
-## 🖥️ User Interface
+## User Interface
 
 - Pygame-based graphical interface
 - Field and crop selection
@@ -149,7 +149,7 @@ GROWPRO-FARMING-ROBOT-ASSISTANT/
 
 ---
 
-## 📸 Media & Demonstrations
+## Media & Demonstrations
 
 All large media files are hosted externally.
 
@@ -159,23 +159,3 @@ See [`media/README.md`](media/README.md) for:
 - Seminar & presentation videos
 - Posters and certificates
 
----
-
-## 🏆 Project Highlights
-
-- ~70% reduction in manual crop inspection time
-- Earlier detection of crop diseases
-- Modular and scalable architecture
-- Designed for real-world farming conditions
-
----
-
-## 🔮 Future Improvements
-
-- Custom motor driver board
-- Mobile companion app
-- Cloud-based analytics dashboard
-- Multi-robot coordination
-- Automated irrigation integration
-
----
