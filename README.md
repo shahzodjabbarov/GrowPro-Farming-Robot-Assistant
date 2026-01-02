@@ -99,13 +99,9 @@ GROWPRO-FARMING-ROBOT-ASSISTANT/
 │   └── detection/
 │
 ├── user_side/         # User applications and GUI
-│   ├── application/
-│   ├── manual_control/
-│   └── navigation_app/
-│
-├── media/             # Posters, images, media links
-│
-└── README.md
+    ├── application/
+    ├── manual_control/
+    └── navigation_app/
 
 ```
 
